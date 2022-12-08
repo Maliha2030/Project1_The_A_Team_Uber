@@ -16,7 +16,7 @@ Uber has become the most popular choice for travel across the world. In 2021, th
 
 ***Methods:
 
-We obtained a dateset from https://www.kaggle.com/datasets/yasserh/uber-fares-dataset. It contains data on Uber trips in New York City, United States of America. It has 200000 rows of data containing a unique trip identifier, the fare of those trips, pick-up time, pick-up location (via latitude and longitude) and the same for drop-off.  
+We obtained a dateset from https://www.kaggle.com/datasets/yasserh/uber-fares-dataset. It contains data on Uber trips in New York City, United States of America. It has 200000 rows of data for the years 2009 to 2015, containing a unique trip identifier, the fare of those trips, pick-up time, pick-up location (via latitude and longitude) and the same for drop-off.  
 We downloaded the CSV file containing the dataset. We then used the Jupyter notebook to change that file to a pandas dataframe.  
 
 
@@ -25,7 +25,8 @@ We then performed the following data clean-up and massaging process:
 *Delete rows with '0' values for longitude and longitude, passengers and fare amounts,  
 *Creating new columns 'Month', 'Date', 'Day', 'Hour', 'Day of week'.  
 *Calculating the distance between the pickup and drop co-ordinates using the Haversine formula for accuracy.  
-*Delete coordinates as we've now got distance.
+*Delete coordinates as we've now got distance
+*Delete 2015 trips as the  year is incomplete and would not be fairly comparable to other years in the dataset.  
 
 
 ***Analysis:  
