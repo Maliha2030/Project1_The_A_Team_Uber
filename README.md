@@ -1,7 +1,6 @@
 # Project_1_The_A_Team 
 
-
-Repo to store our first project work  
+Repo to store our project 1 work  
 
 
 ***Questions of Focus:  
