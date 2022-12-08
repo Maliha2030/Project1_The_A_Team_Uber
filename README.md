@@ -45,7 +45,7 @@ Once our data frame was formated and filtered we analysed our data as follows:
 *- average number of passengers
 *- average distance travelled
 
-*we charted as correlation charts the relationship between, and measured the correlation coefficient of  
+*We charted as correlation charts the relationship between, and measured the correlation coefficient of  
 *- Fare price versus the distance travelled (as an aggregate, and specifically for 2012 as an exemplar year)  
 
 
