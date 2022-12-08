@@ -1,11 +1,9 @@
 # Project_1_The_A_Team
 Repo to store our project 1 work   
 
-<<<<<<< HEAD
-.
 
-=======
->>>>>>> b7e520c1ec7323310e218f911e83cf1cfa2c5fdd
+
+
 Questions of Focus : 
 
 1.Does the time/date affect how often people order Ubers?
@@ -44,19 +42,40 @@ Conclusions and Implications :
 Relationships we looked at
 ○
 Trend of
+
+
 total number of trips/rides
+
+
 total fares collected
+
+
 fare prices adjusted for distance
 
+
 Distribution of
+
+
 total trips per month over 5 years
+
+
 average passenger numbers
+
+
 average distance travelled
+
+
 Time (seasonality) variables (hour of day; day of week; month of year) with
+
+
 total trips
+
+
 average number of passengers
-<<<<<<< HEAD
+
+
 Fare price with distance travelled
-=======
+
+
 Fare price with distance travelled
->>>>>>> b7e520c1ec7323310e218f911e83cf1cfa2c5fdd
+
