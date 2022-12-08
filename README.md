@@ -34,8 +34,8 @@ We then performed the following data clean-up and massaging process:
 
 Once our data frame was formated and filtered we analysed our data as follows:  
 
-*We charted as bar charts or line charts the trend over time (years) of 
-*-the total number of trips
+*We charted as bar charts or line charts the trend over time (years) of  
+*-the total number of trips  
 *-total fares collected  
 *-fare prices adjusted for distance  
 
