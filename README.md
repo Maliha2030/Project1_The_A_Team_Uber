@@ -38,7 +38,7 @@ Delete coordinates as we've now got distance.
 Create a scater plot Distance vs Fare Amount.
 Calculate total amount of trips per year, month, day and hour so we can creat bar and pie chart for our data visualization .
 Define a function to create Linear Regression plots.
-Creating chart for Avg_distance vs. Average_fair Linear Regression Plot. 
+Creating chart for Avg_distance vs. Average_fare Linear Regression Plot. 
 
 Conclusions and Implications :
 Relationships we looked at
