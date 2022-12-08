@@ -2,7 +2,7 @@
 Repo to store our project 1 work  
 
 
-Questions of Focus:  
+***Questions of Focus:  
   
 1. Does the time/date affect how often people order Uber trips?  
 2. How has Uber prices changed over time?  
@@ -10,12 +10,14 @@ Questions of Focus:
 4. What are the most common amount of passengers for an Uber trip?.
 
 
-Introduction:  
+***Introduction: 
+
 Uber has become the most popular choice for travel across the world. In 2021, there were 118 million users in over 80 countries.  
 
 We wanted to explore what factors affect customer behaviour and fare costs for this major transport provider in a specific location.
 
-Methods:
+***Methods:
+
 We obtained a dateset from https://www.kaggle.com/datasets/yasserh/uber-fares-dataset. It contains data on Uber trips in New York City. It has 200000 rows of data containing a unique trip identifier, the fare of that fare, pick-up time, pick-up location (via latitude and longitude) and the same for drop-off.  
 We downloaded the CSV file containing the dataset. We then used the Jupyter notebook to change that file to a pandas dataframe.  
 
@@ -28,7 +30,8 @@ We then performed the following data clean-up and massaging process:
 *Delete coordinates as we've now got distance.
 
 
-Analysis:  
+***Analysis:  
+
 Once our data frame was formated and filtered we analysed our data as follows:  
 
 *We charted as bar charts or line charts the trend over time (years) of 
@@ -47,15 +50,18 @@ Once our data frame was formated and filtered we analysed our data as follows:
 *- Fare price versus the distance travelled (as an aggregate, and specifically for 2012 as an exemplar year)  
 
 
-*Conclusions and Implications:  
+***Conclusions and Implications:  
+
 From the companies perspective, our analyses showed several important points:  
 *- The total trip numbers made over time are stable (stagnant?), and not increasing  
 *- But the fares collected are increasing  
 *- However, this does not seem to be through increased trips nor increased distances covered  
-*- Hence, the company needs company cost data (fuel, repairs, staff, rent etc), and macroeconomic data (inflation) to assess whether this continued growth in fare   collected translates to profit, and whether the profit rate is above the levels of inflation  
+*- Hence, the company needs company cost data (fuel, repairs, staff, rent etc), and macroeconomic data (inflation) to assess whether this continued growth in fare   collected translates to profit, and whether the profit rate is above the levels of inflation 
+
 From the customer's perspective, we asked whether the data shows if the service is worth-it:  
 *- the fare costs per unit of distance are ever increasing  
 *- more data on proportions to income is needed to assess affordibility.  
+
 We thus identified that the company could explore the following markets to develop and grow trip numbers:  
 *- Increase distance travelled  
 *- Increase trips with more than one passenger
