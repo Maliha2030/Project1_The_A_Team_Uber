@@ -12,9 +12,7 @@ Repo to store our project 1 work
 
 ***Introduction: 
 
-Uber has become the most popular choice for travel across the world. In 2021, there were 118 million users in over 80 countries.  
-
-We wanted to explore what factors affect customer behaviour and fare costs for this major transport provider in a specific location.
+Uber has become the most popular choice for travel across the world. In 2021, there were 118 million users in over 80 countries.  We wanted to explore what factors affect customer behaviour and fare costs for this major transport provider in a specific location.
 
 ***Methods:
 
