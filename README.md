@@ -52,7 +52,7 @@ Once our data frame was formated and filtered we analysed our data as follows:
 
 ***Results:  
 
-The full results are contained in the jupyter notebook file Final Project Script.ipynb, and is summarised in the presentation slides, both listed in this repo.  
+The full results are contained in the jupyter notebook file 'Final Project Script.ipynb', and is summarised in the presentation slides, both listed in this repo.  
 
 ***Conclusions and Implications:  
 
